@@ -1,4 +1,4 @@
-# Home_Automation BY RTOS(Real Time Operating System)
+# Home_Automation BY RTOS
                        The Home Automation monitoring the home climate and illumination 
 
 # Video:
