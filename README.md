@@ -1,7 +1,8 @@
 # Home_Automation
                                   The Home Automation monitoring the home climate and illumination 
-                                  Video : https://drive.google.com/file/d/1Xlzg03g2IwNMQ_RpiMZf5A8wkX_90cSX/view?usp=share_link
 
+#Video:
+https://drive.google.com/file/d/1Xlzg03g2IwNMQ_RpiMZf5A8wkX_90cSX/view?usp=share_link
  ## Features:
  ### Password Protected & Automatic Door 
    - To enter the home a person will have to enter password.
