@@ -1,5 +1,5 @@
 # Home_Automation
-The Home Automation monitoring the home climate and illumination 
+                         The Home Automation monitoring the home climate and illumination 
 
  ## Features:
  ### Password Protected & Automatic Door 
