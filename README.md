@@ -4,15 +4,15 @@
 # Video:
 https://drive.google.com/file/d/1Xlzg03g2IwNMQ_RpiMZf5A8wkX_90cSX/view?usp=share_link
  ## Features:
- ### Password Protected & Automatic Door 
-    To enter the home a person will have to enter password.
-    the Buzzer on if the password wrong 3 times.
-    you can change the password with strong keyword.
-    calling Police if you enter password reversed.
+### Password Protected & Automatic Door 
+ To enter the home a person will have to enter password.
+ the Buzzer on if the password wrong 3 times.
+ you can change the password with strong keyword.
+calling Police if you enter password reversed.
    
- ### Automatic Fan
+### Automatic Fan
    - fans turn on or off based on the temperature and human existence in the room.
- ### Automatic Windows
+### Automatic Windows
    - windows close if it's raining outside.
 ### Automatic Light
    - lights outside home turn on or off based on the light intensity.
