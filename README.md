@@ -1,4 +1,4 @@
-# Home Automation BY RTOS
+# Home Automation BY FreeRTOS
                        The Home Automation monitoring the home climate and illumination 
 
 # Video:
