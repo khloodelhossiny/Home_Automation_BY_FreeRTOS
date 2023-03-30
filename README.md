@@ -3,10 +3,11 @@ The Home Automation monitoring the home climate and illumination
 
  #### Features:
  ##### Password Protected & Automatic Door 
- To enter the home a person will have to enter password.
-        - the Buzzer on if the password wrong 3 times.
-        - you can change the password with strong keyword.
-        - calling Police if you enter password reversed.
+   - To enter the home a person will have to enter password.
+   -  the Buzzer on if the password wrong 3 times.
+   - you can change the password with strong keyword.
+   - calling Police if you enter password reversed.
+   
  ##### Automatic Fan
         - fans turn on or off based on the temperature and human existence in the room.
  ##### Automatic Windows
